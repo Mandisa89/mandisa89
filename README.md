@@ -6,5 +6,5 @@ I graduated from AFDA with a BA Honours in Cinematography, and my decade of expe
 
 - 💧 I’m currently working on a website about natural pools and the filtering power of wetlands! You can check out its progress [here](https://github.com/Mandisa89/Bootcamp/tree/master/Submissions%20L2T06_Capstone%20IV%20Amanzi%20Wethu/website)!
 - 📚 I’m currently learning more about frameworks and improving my tech stack through self-study on Udemy and edX.
-- 🌟 I am looking to gain more experience in collaborating on programming more challenging real-world projects for clients, building on the limited experience I have already accrued building client websites on platforms such as Wix ([see link here](https://www.linkedin.com/in/mandisa-macleod/details/featured/)) that are easily maintainable by themselves once the build is completed.
+- 🌟 I am looking to gain more experience in collaborating on programming more challenging real-world projects for clients, building on the experience I have already accrued building client websites on platforms such as Wix ([see link here](https://www.linkedin.com/in/mandisa-macleod/details/featured/)) that are easily maintainable by themselves once the build is completed.
 
